@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# The sitemaps below are the point of this file. Each project on
+# this host serves its own; a crawler only looks for them here.
+Sitemap: https://savecharlie.github.io/suspect-the-ruler/sitemap.txt
